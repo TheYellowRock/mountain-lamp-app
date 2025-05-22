@@ -13,7 +13,7 @@ export default function HomePage() {
   <div className="grid grid-cols-1 md:grid-cols-2 gap-8 p-4">
     {/* Map & Heading */}
     <div>
-      <h1 className="text-2xl font-bold mb-4">Let's find your Mountain</h1>
+      <h1 className="text-2xl font-bold mb-4">Let`&apos;`s find your Mountain</h1>
       <MapSearch />
     </div>
 
